@@ -26,5 +26,12 @@
         "password": "kajal#0001",
         "expirydate": "31-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "366dedb84b3ae3d0",
+        "username": "user001",
+        "password": "kajal#6789",
+        "expirydate": "31-12-2025",
+        "Allowoffline": false
     }
 ]
